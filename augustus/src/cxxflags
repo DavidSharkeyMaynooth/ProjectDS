@@ -1,0 +1,1 @@
+-Wall -Wno-sign-compare -Wno-strict-overflow -ansi -pedantic -O3   -DZIPINPUT
